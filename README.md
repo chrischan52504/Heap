@@ -10,6 +10,7 @@ Test cases and measurements of the average time for running heap sort are also i
                          intended for checking the correctness of the implementation
     heap.cpp           # Source code for the project
     README.md          # Description of the project and how to use it
+    LICENSE            # MIT License
 
 
 ## How to use?
